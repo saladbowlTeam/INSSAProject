@@ -38,12 +38,6 @@ Elastic Search
 * Additional technical set : Axios
 ```
 
-# How to run it
-1. Eclipse에서 Spring boot 파일을 가동한다.
-2. 오라클 DB, 엘라스틱 서치, 키바나를 켠 상태로, html 파일을 실행하여 인스타그램 데이터 크롤링을 수행한다. 
-3. html 파일을 실행하여 지도 정보를 가져온다.
-4. 
-
 # Authors
 * **강민웅**:  [강민웅의 깃헙](https://github.com/happymwkang)
 * **김수경**:  [김수경의 깃헙](https://github.com/sooish)
